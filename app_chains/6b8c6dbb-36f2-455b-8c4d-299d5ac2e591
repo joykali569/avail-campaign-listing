@@ -1,0 +1,8 @@
+{
+  "name": "frost",
+  "logo": "https://imgur.com/Z1QDSuT",
+  "rpc_url": "http://46.250.227.50:9944",
+  "explorer_url": "http://46.250.227.50:4000",
+  "metrics_endpoint": "http://46.250.227.50:9615/metrics",
+  "id": "6b8c6dbb-36f2-455b-8c4d-299d5ac2e591"
+}
